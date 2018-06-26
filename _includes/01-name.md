@@ -1,1 +1,6 @@
-Replace this with your name, and include a header.
+# Hamidu Abu
+## Learning Markdown
+### On Github Learning
+#### This Lesson is about Headers
+##### Thank you
+###### Have a nice day
